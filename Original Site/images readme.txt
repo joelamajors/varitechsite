@@ -1,0 +1,1 @@
+all the original images have been added to the src.
